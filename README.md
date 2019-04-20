@@ -4,7 +4,7 @@ Java Swing 과 MutilThread Sokect Programming 을 이용한 꼬리잡기 게임�
 
 ## 영상
 
-[![video](thumbnail/thumbnail.png)](httpsvimeo.com331539262)
+[![video](thumbnail/thumbnail.png)](https://vimeo.com/331539262)
 
 # 사용법
 
