@@ -2,10 +2,6 @@
 
 Java Swing 과 MutilThread Sokect Programming 을 이용한 꼬리잡기 게임입니다.
 
-## 영상
-
-[![video](https://i.vimeocdn.com/video/776961055_640x360.jpg)](https://vimeo.com/331539262)
-
 # 사용법
 
 이 프로그램은 서버와 클라이언트가 개별입니다. 서버를 가동해 서버(pc)에 클라이언트들을 접속시켜야 합니다.
